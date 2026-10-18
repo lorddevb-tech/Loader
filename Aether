@@ -1,7 +1,7 @@
 local configs = {
     [107778070777162] = {
         urls = {
-            "https://cdn.luaprotect.dev/u/b55c9d/6nl_7PcEZL6FmZD-",
+            "https://flowauth.net/v1/loaders/a688aad4afa2161a7c80b2d2a9284e55.lua",
         },
     },
 }
